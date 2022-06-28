@@ -11,6 +11,7 @@ public class Exercicio3Pt2fori {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Qual número você deseja ver a tabuada: ");
         int numero = input.nextInt();
+        input.close();
 
         int x = numero;
         int y = 0;
