@@ -1,7 +1,7 @@
 package l4;
 
 import java.util.Scanner;
-
+// Forma de fazer a tabuada utilizando o (while):
 public class Exercicio3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -19,5 +19,8 @@ public class Exercicio3 {
             multiplicador++;
         }
 
+
     }
+
 }
+
