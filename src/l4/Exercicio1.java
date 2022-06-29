@@ -1,7 +1,7 @@
 package l4;
 
 import java.util.Scanner;
-
+// Informando o produto mais barato
 public class Exercicio1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package l4;
 
 import java.util.Scanner;
-
+// valores nos intervalos entre números inteiros
 public record Exercicio6() {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

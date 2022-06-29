@@ -1,5 +1,5 @@
 package l4;
-
+// comparador numeral
 import java.util.Scanner;
 
 public class Exercicio4 {

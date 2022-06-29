@@ -1,5 +1,5 @@
 package l4;
-
+// Informando os dias da semana
 import java.util.Scanner;
 
 public class Exercicio2 {
